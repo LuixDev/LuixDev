@@ -53,7 +53,7 @@
 ---
 
 ## 🌍 Cómo contactarme  
-📧 **Email:** [tucorreo@example.com](mailto:luisrodriguez@rysolf.com)  
+📧 **Email:** [luisrodriguez@rysolf.com](mailto:luisrodriguez@rysolf.com)  
 
 
 ---
