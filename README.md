@@ -53,10 +53,8 @@
 ---
 
 ## 🌍 Cómo contactarme  
-📧 **Email:** [tucorreo@example.com](mailto:tucorreo@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario/)  
-🐦 **Twitter:** [twitter.com/tuusuario](https://twitter.com/tuusuario)  
-📂 **Portafolio:** [tuwebsite.com](https://tuwebsite.com)  
+📧 **Email:** [tucorreo@example.com](mailto:luisrodriguez@rysolf.com)  
+
 
 ---
 
