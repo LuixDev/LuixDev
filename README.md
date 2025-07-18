@@ -46,8 +46,6 @@
 
 ---
 
-## 🌍 Cómo contactarme  
-📧 **Email:** [luisrodriguez@rysolf.com](mailto:luisrodriguez@rysolf.com)  
 
 
 ---
