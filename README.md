@@ -4,7 +4,7 @@
 
 💻 **Desarrollador de software Full Stack** | 🚀 **Apasionado por la tecnología** | 🎨 **Amante del diseño UI/UX**   | CEO 
 
-> _"El código es como la poesía: cuando es bueno, nadie necesita explicarlo." - yo
+> "El código es como la poesía: cuando es bueno, nadie necesita explicarlo." - yo
 > 
 ---
 
