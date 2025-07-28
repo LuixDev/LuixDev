@@ -1,10 +1,10 @@
 # 👋 ¡Hola! ¡Bienvenido a mi mundo digital! 🚀  
 
-![banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+![banner](https://firebasestorage.googleapis.com/v0/b/bucket-ce153.appspot.com/o/Windows7.gif?alt=media&token=91c018bb-edc2-4f95-9798-07a18f9f779d)  
 
 💻 **Desarrollador de software Full Stack** | 🚀 **Apasionado por la tecnología** | 🎨 **Amante del diseño UI/UX**  
 
-> _"El código es como la poesía: cuando es bueno, nadie necesita explicarlo." - Anónimo_  
+> _"El código es como la poesía: cuando es bueno, nadie necesita explicarlo." - yo 
 
 ---
 
@@ -12,7 +12,6 @@
  
 - 🎯 Experto en desarrollo **Full Stack & Arquitecturas escalables**  
 - 🔥 Apasionado por la **innovación, microservicios y optimización de código**  
-- 🌱 Siempre aprendiendo algo nuevo en el mundo tech  
 - 📡 **Objetivo:** Desarrollar soluciones de impacto con las mejores tecnologías  
 
 ---
