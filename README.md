@@ -1,4 +1,4 @@
-# 👋 ¡Hola! ¡Bienvenido a mi mundo digital todavia uso windows 7!   
+# 👋 ¡Hola! ¡Bienvenido a mi mundo digital windows 7!   
 
 ![banner](https://firebasestorage.googleapis.com/v0/b/bucket-ce153.appspot.com/o/Windows7.gif?alt=media&token=91c018bb-edc2-4f95-9798-07a18f9f779d)  
 
@@ -94,13 +94,6 @@
 
 ---
 
-
----
-
-[![Escuchar música](https://img.shields.io/badge/🎵%20Escuchar%20Música%20-009%20Sound%20System-blueviolet?style=for-the-badge)](https://TU-USUARIO.github.io/TU-REPO/)
-
-
----
 
 💡 _"La mejor forma de predecir el futuro es crearlo."_ 🚀✨  
 
