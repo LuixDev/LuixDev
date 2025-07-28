@@ -1,4 +1,4 @@
-# 👋 ¡Hola! ¡Bienvenido a mi mundo digital! 🚀  
+# 👋 ¡Hola! ¡Bienvenido a mi mundo digital todavia uso windows 7! 🚀  
 
 ![banner](https://firebasestorage.googleapis.com/v0/b/bucket-ce153.appspot.com/o/Windows7.gif?alt=media&token=91c018bb-edc2-4f95-9798-07a18f9f779d)  
 
