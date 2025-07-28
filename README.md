@@ -2,7 +2,8 @@
 
 ![banner](https://firebasestorage.googleapis.com/v0/b/bucket-ce153.appspot.com/o/Windows7.gif?alt=media&token=91c018bb-edc2-4f95-9798-07a18f9f779d)  
 
-💻 **Desarrollador de software Full Stack** | 🚀 **Apasionado por la tecnología** | 🎨 **Amante del diseño UI/UX**  
+💻 **Desarrollador de software Full Stack** | 🚀 **Apasionado por la tecnología** | 🎨 **Amante del diseño UI/UX**   | 🎨 **Amante del diseño UI/UX**  
+<img src="https://img.shields.io/badge/CEO-black?style=for-the-badge&logo=pinboard&logoColor=white" />
 
 > _"El código es como la poesía: cuando es bueno, nadie necesita explicarlo." - yo 
 
